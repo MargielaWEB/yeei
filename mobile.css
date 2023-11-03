@@ -1,0 +1,44 @@
+@media(max-width:625px){
+    .menu{
+        
+    }
+
+    .nav-item{
+        display: block;
+        
+    }
+
+    .header{
+        margin-top: 200px;
+    }
+
+    .header-title{
+        font-size: 60px;
+    }
+
+    .order{
+        margin-bottom: 40px;
+    }
+
+    .cheef-info{
+        max-width: 300px;
+    }
+
+    .chef-img{
+        display: block;
+        width: 95%;
+        margin: auto;
+
+    }
+
+    .cheef-desc{
+        display: block;
+        width: 90%;
+        text-align: center;
+    }
+
+    .personal{
+        
+    }
+
+}
